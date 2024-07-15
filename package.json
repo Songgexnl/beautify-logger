@@ -12,6 +12,7 @@
   ],
   "author": "Songgexnl",
   "license": "ISC",
+  "homepage": "https://github.com/Songgexnl/beautify-logger",
   "dependencies": {
     "chalk": "^4.1.0"
   }

@@ -1,0 +1,18 @@
+{
+  "name": "beautify-logger",
+  "version": "1.0.1",
+  "description": "node beautifies output logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "logger",
+    "node"
+  ],
+  "author": "Songgexnl",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}

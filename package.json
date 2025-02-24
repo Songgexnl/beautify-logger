@@ -1,6 +1,6 @@
 {
   "name": "beautify-logger",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "node beautifies output logs",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "node"
   ],
   "author": "Songgexnl",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/Songgexnl/beautify-logger",
   "dependencies": {
     "chalk": "^4.1.0"
